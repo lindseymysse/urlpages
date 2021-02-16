@@ -1,6 +1,8 @@
 # URL Pages
-
+fork of:
 [jstrieb.github.io/urlpages](http://jstrieb.github.io/urlpages)
+
+This version will generate a QR code with the page embedded inside. 
 
 ## About
 
